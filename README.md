@@ -15,7 +15,7 @@ Tu dois développer un outil **en ligne de commande (CLI)** permettant de créer
 ## ✅ Fonctionnalités minimales
 
 - [ ] **Créer une nouvelle carte** avec un titre racine
-- [ ] **Ajouter un nœud** à un autre nœud (idée fille)
+- [ ] **Ajouter un nœud** à un autre nœud (idée fille) max. 3 niveaux titre compris.
 - [ ] **Lister** une carte sous forme d’arborescence en CLI
 - [ ] **Supprimer** un nœud et tous ses enfants
 - [ ] **Sauvegarder/charger** une carte depuis un fichier (JSON ou YAML)
@@ -25,11 +25,7 @@ Tu dois développer un outil **en ligne de commande (CLI)** permettant de créer
 
 ## 🧪 Fonctionnalités bonus (non obligatoires)
 
-- [ ] Affichage graphique ASCII (ex: `rich` en Python)
-- [ ] Export vers Markdown ou HTML
-- [ ] Édition interactive (avec flèches ou menu)
-- [ ] Support multi-cartes (gérer plusieurs fichiers)
-- [ ] Tests unitaires
+- ajoutes 2 ou 3 autres fonctionnalités qui te semble pertinentes.
 
 ---
 
